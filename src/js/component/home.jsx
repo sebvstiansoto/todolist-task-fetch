@@ -1,12 +1,12 @@
 import React from "react";
-import TrafficLight from "./TraffictLight";
+import TodoApp from "./ToDoList";
 
 
 const Home = () => {
   return (
     <>
       <div>
-        <TrafficLight />
+        <TodoApp />
       </div>
     </>
   );
